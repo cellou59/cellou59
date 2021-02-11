@@ -14,9 +14,12 @@ I'm a French developper front-end. Je vous souhaite bien le bonjour!
   - Improve my knowledge on React and Vu JS.
 
 
-## :headphones: Spotify Playing
+## :headphones: Spotify Playing 🙈🙉🙊 :headphones: 
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1RpoFbF2ZzuLxhhOc3djCe)
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
 
 ## :wrench: Technologies
 
