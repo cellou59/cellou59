@@ -4,7 +4,7 @@ I'm a French developper front-end. Je vous souhaite bien le bonjour!
 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CellouDiall0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cellou-diallo-18b616135/)
 - 💪 Currently working as a developper front-end.
-- 🔏 tutorial bounty hunter in free time.
+- 🔏 tutorial and project bounty hunter in free time.
 - 💝 love web, animation and design.
 - ☕ Coffee lover, turning it into code!
 - 🏆 2023 Goals:
