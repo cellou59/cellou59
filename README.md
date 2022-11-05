@@ -6,12 +6,10 @@ I'm a French developper front-end. Je vous souhaite bien le bonjour!
 - 💪 Currently working as a developper front-end.
 - 🔏 tutorial bounty hunter in free time.
 - 💝 love web, animation and design.
-- 🎯 looking for a job.
 - ☕ Coffee lover, turning it into code!
-- 🏆 2022 Goals:
-  - Find my fisrt work as web developper.
+- 🏆 2023 Goals:
   - Contribute and publish more open source projects.
-  - Improve my knowledge on React and Vu JS.
+  - Improve my knowledge on vue,Nuxt,JS and many more.
 
 
 ## :headphones: Spotify Playing 🙈🙉🙊 :headphones: 
