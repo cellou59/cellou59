@@ -1,4 +1,4 @@
-# Hi, I'm Cellou (:coffee::computer::bulb::heart:)
+# Hi, I'm Cellou ( :coffee: :computer: :bulb: :heart:)
 
 I'm a French developper front-end. Je vous souhaite bien le bonjour!
 
@@ -7,9 +7,9 @@ I'm a French developper front-end. Je vous souhaite bien le bonjour!
 - 🔏 tutorial and project bounty hunter in free time.
 - 💝 love web, animation and design.
 - ☕ Coffee lover, turning it into code!
-- 🏆 2023 Goals:
+- 🏆 2024 Goals:
   - Contribute and publish more open source projects.
-  - Improve my knowledge on vue,Nuxt,JS and many more.
+  - Improve my knowledge on rust and React ecosystem.
 
 
 ## :headphones: Spotify Playing 🙈🙉🙊 :headphones: 
@@ -21,7 +21,7 @@ I'm a French developper front-end. Je vous souhaite bien le bonjour!
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/30/console.png)
 
 </details>
 
